@@ -21,9 +21,7 @@ Tool: Python via google colab.
 The project focused on analyzing four years of insurance data (2015–2018) to identify trends in policyholder behavior, claim frequency, and overall policy performance. With a 13% rise in auto insurance claims reported in late 2024, insurers face growing financial pressure. I explored relationships between premiums, vehicle type, location, and claims using Python (Pandas, Seaborn, Plotly). A secondary dataset added insight into specific claim types like theft or accidents. The analysis revealed patterns that support better pricing, fraud detection, and customer segmentation. This project demonstrates my ability to transform raw data into practical strategies that improve financial stability in insurance.
 
 ###  Project Code
-[Python Codes]
-https://colab.research.google.com/drive/1c0IPFuBMFKMziGwWX6W8PkBCAlxxqq6h?usp=sharing.
-
+[See my Code](https://drive.google.com/file/d/1VDHf4SKwh2Sd13JukGNQt3M3mESESP6P/view?usp=sharing)
 
  
 ### 3. Database Management System. 
