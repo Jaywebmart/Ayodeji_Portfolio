@@ -22,7 +22,7 @@ The project focused on analyzing four years of insurance data (2015–2018) to i
 
 ###  Project Code
 [Python Codes]
-(https://colab.research.google.com/drive/1c0IPFuBMFKMziGwWX6W8PkBCAlxxqq6h?usp=sharing)
+https://colab.research.google.com/drive/1c0IPFuBMFKMziGwWX6W8PkBCAlxxqq6h?usp=sharing.
 
 
  
