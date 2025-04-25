@@ -1,5 +1,10 @@
 # Data Analyst Portfolio.
 
+### About me 
+I’m a data analyst with a strong focus on turning complex data into clear, actionable insights that drive business value. With hands-on experience in Python, SQL, Power BI, and Tableau, I’ve worked on real-world projects ranging from insurance claims analysis to marketing performance and customer behaviour. My approach blends analytical thinking with practical problem-solving, helping teams make informed decisions backed by data.
+
+I’m passionate about continuous learning and using data to tell meaningful stories. Whether it’s exploring customer behavior, optimizing operations, or visualizing performance, I'm always having fun with data, I aim to create solutions that are insightful, impactful, and easy to understand.
+
 ### Skills
 Data Analytics - (Tools: Python, SQL, Excel, Rapid Miner)
 Data Visualisation - (Tools: Tableau, PowerBI, Looker studio)
