@@ -14,7 +14,7 @@ The project focused on building insightful dashboards for Core29, a tech-driven 
 ### Project Utilization
 [Dashboard 2](https://public.tableau.com/app/profile/ayodeji.oroboade/viz/CORE29ProjectDashboard/ProjectDashboard). 
 ### Data Cleaning Process.
-[Cleaning flow]()
+[Cleaning flow](assets/CleaningFlow.png)
 
 
 ### 2. Optimising Insurance Claim in Autoinsurance. 
