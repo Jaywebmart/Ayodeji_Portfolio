@@ -59,7 +59,7 @@ The model revealed key predictors such as education level (PhD, Masters), presen
 Throughout the project, I recorded a video walkthrough for stakeholders, guiding them through my thought process, modeling decisions, and business implications in a clear, accessible way. The final deliverable included actionable recommendations, model deployment strategies, and communication materials to support the campaign launch.
 
 ### Superstore
-[](https://drive.google.com/file/d/1fOjRAH2gU85vYksDgHPA4TnyVaZxh9qK/view?usp=sharing)
+[Watch the entire process](https://drive.google.com/file/d/1fOjRAH2gU85vYksDgHPA4TnyVaZxh9qK/view?usp=sharing)
 
 
 
