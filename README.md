@@ -38,11 +38,11 @@ Tool: SQL via MySQL
 This project is a relational database management system for Inchgarth Community Centre to manage room bookings and activity attendance. I designed key tables such as Activity, Attendance, Bookings, Members, Membership, Payment, Rooms, and Staff, establishing relationships through foreign keys and primary keys. For example, the Activity table was linked to Attendance via a foreign key, and Members were connected to Membership. I implemented constraints on different columns like membership status and date/time to ensure data integrity. Additionally, we performed pilot testing using complex SQL queries and joining tables to ensure the system was running smoothly.
 
 ### Database Codes
-[SQL Codes]
+[SQL Codes](https://drive.google.com/drive/folders/1U6pRRG05rZM-ygkwv_fYJsIcgThaZxJ0?usp=sharing)
 ### Data Base ER diagram
-[DB Schema]
+[DB Schema](https://drive.google.com/drive/folders/1xQvkIs1kcvM2raLT6pbBReUUWC4N-bxD?usp=sharing)
 ### Database Queries
-[DB Queries]   
+[DB Queries](https://drive.google.com/drive/folders/1zk33OKdfMtFpTUeGsf9e9JbbVNPNOK2v?usp=sharing)   
 
 
 ### 4. Customer Discount Campaign for Altrix Superstore
