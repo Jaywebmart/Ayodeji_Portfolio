@@ -39,11 +39,12 @@ Focus: Time Series Forecasting, Supply Chain Analytics, Policy Insight, Data Sto
 
 This project stemmed out of curiosity, I analysed long-term UK dairy production data sourced from GOV.UK to understand patterns in raw milk availability, utilisation, and wastage across the supply chain. I conducted extensive time-series exploration spanning multiple decades, addressing structural changes, seasonality, and missing values inherent in historical government datasets.
 
-Using SARIMA modelling, I forecasted short-term raw milk availability while capturing strong annual production cycles and temporal dependence. I further incorporated trade-related exogenous factors—imports and exports—to contextualise domestic supply dynamics and assess their influence on availability. Visualisations highlighted periods where rising exports coincided with increased volatility in domestic supply, reinforcing the relevance of external drivers.
+Using SARIMA modelling, I forecasted short-term raw milk availability while capturing strong annual production cycles and temporal dependence. I further incorporated trade-related exogenous factors imports and exports, to contextualise domestic supply dynamics and assess their influence on availability. Visualisations highlighted periods where rising exports coincided with increased volatility in domestic supply, reinforcing the relevance of external drivers.
 The project demonstrates how statistical forecasting can support evidence-based decision-making in agriculture, offering insights applicable to farmers, industry planners, and policymakers concerned with food security, sustainability, and climate-sensitive production systems.
 
 ### Milk Utilization.
 [Read more](https://github.com/Jaywebmart/Milk-Utilization-Project.git). 
+[LinkedIn](https://www.linkedin.com/posts/ayodeji-oroboade-9106aa1b0_curiositymademedoit-agriculturaldata-timeseriesforecasting-activity-7422277540125315075-6rOS?utm_source=share&utm_medium=member_desktop&rcm=ACoAADE5epwBuKcKA1PHJxici8Y_IV7cYebFNnU)
 
 ### 3. Core 29: Business Intelligence Dashboard: Work utilization, Project Status. 
 Tool: Tableau
