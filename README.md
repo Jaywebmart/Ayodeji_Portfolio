@@ -43,9 +43,9 @@ Using SARIMA modelling, I forecasted short-term raw milk availability while capt
 The project demonstrates how statistical forecasting can support evidence-based decision-making in agriculture, offering insights applicable to farmers, industry planners, and policymakers concerned with food security, sustainability, and climate-sensitive production systems.
 
 ### Milk Utilization.
-[Read more](https://github.com/Jaywebmart/Milk-Utilization-Project.git). 
+[Read more](https://github.com/Jaywebmart/Milk-Utilization-Project.git)
 
-[LinkedIn](https://www.linkedin.com/posts/ayodeji-oroboade-9106aa1b0_curiositymademedoit-agriculturaldata-timeseriesforecasting-activity-7422277540125315075-6rOS?utm_source=share&utm_medium=member_desktop&rcm=ACoAADE5epwBuKcKA1PHJxici8Y_IV7cYebFNnU)
+[LinkedIn Post](https://www.linkedin.com/posts/ayodeji-oroboade-9106aa1b0_curiositymademedoit-agriculturaldata-timeseriesforecasting-activity-7422277540125315075-6rOS?utm_source=share&utm_medium=member_desktop&rcm=ACoAADE5epwBuKcKA1PHJxici8Y_IV7cYebFNnU)
 
 ### 3. Core 29: Business Intelligence Dashboard: Work utilization, Project Status. 
 Tool: Tableau
